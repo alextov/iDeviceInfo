@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "iDeviceInfo.DeviceViewController.updateSearchResultsForSearchController (iDeviceInfo.DeviceViewController)(ObjectiveC.UISearchController) -&gt; ():DeviceViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "dataSource.filteredDevices2">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "iDeviceInfo.DeviceDetailsDataSource.tableView (iDeviceInfo.DeviceDetailsDataSource)(ObjectiveC.UITableView, cellForRowAtIndexPath : ObjectiveC.NSIndexPath) -&gt; ObjectiveC.UITableViewCell:DeviceDetailsViewControllerDataSource.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.section">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
